@@ -1,3 +1,5 @@
 square ahh random color
 
-![images goods](https://i.stack.imgur.com/B8tTj.png)
+<p align="center">
+  <a href="https://github.com/ramenaru"><img src="images-good.png" alt="gooooodsss"></a>
+</p>
